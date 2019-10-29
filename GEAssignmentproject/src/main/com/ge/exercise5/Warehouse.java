@@ -16,7 +16,6 @@ public class Warehouse {
     private static final Logger logger = LogManager.getLogger(Warehouse.class);
 
     List<Item> items;
-
     public Warehouse() {
         items = new ArrayList<>();
     }
