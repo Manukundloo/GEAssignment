@@ -12,8 +12,8 @@ public class Account {
 
 	// No need static variable
 	/*
-	 * private static float monthlyInterestRate = 1.01f; private static float
-	 * monthlyFee = 0.0f;
+	 * private static float monthlyInterestRate = 1.01f; 
+	 * private static float monthlyFee = 0.0f;
 	 */
 
 	private float monthlyInterestRate = 1.01f;
